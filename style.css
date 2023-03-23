@@ -1,1 +1,11 @@
+.VAST {
+    max-width:  1400px; 
+    margin-left: 13em !important;
+}
 
+.Mars {
+    display: flex;
+    flex-direction: row;
+    max-width: 1250px; 
+    margin-left: 20em!important;
+}
